@@ -14,3 +14,7 @@ To run server:
 ```shell
 (venv)$ python manage.py runserver
 ```
+Create superuser:
+```shell
+(venv)$ python manage.py createsuperuser
+```
