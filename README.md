@@ -18,3 +18,7 @@ Create superuser:
 ```shell
 (venv)$ python manage.py createsuperuser
 ```
+InteractiveConsole
+```shell
+(venv)$ python manage.py shell
+```
